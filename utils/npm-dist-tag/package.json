@@ -34,7 +34,7 @@
   "dependencies": {
     "figgy-pudding": "^3.5.1",
     "npm-package-arg": "^6.1.0",
-    "npm-registry-fetch": "^3.9.0",
+    "npm-registry-fetch": "^4.0.5",
     "npmlog": "^4.1.2"
   }
 }
